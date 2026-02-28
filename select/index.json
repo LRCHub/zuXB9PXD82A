@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Hard work",
+  "base_artist": "Leina",
+  "createdAt": "2026-02-28T14:56:30.842502Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hard Work Pays Off",
+      "artist": "Future feat. Juice WRLD",
+      "has_synced": true,
+      "path": "select/01_Hard_Work_Pays_Off_Future_feat._Juice_WRLD.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hard Work Pays Off",
+      "artist": "Future & Juice WRLD",
+      "has_synced": true,
+      "path": "select/02_Hard_Work_Pays_Off_Future_&_Juice_WRLD.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hard Work Pays Off",
+      "artist": "Future",
+      "has_synced": true,
+      "path": "select/03_Hard_Work_Pays_Off_Future.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hard Work",
+      "artist": "Paul Baribeau",
+      "has_synced": false,
+      "path": "select/04_Hard_Work_Paul_Baribeau.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hard Work",
+      "artist": "Ella Henderson",
+      "has_synced": true,
+      "path": "select/05_Hard_Work_Ella_Henderson.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Love Is Hard Work",
+      "artist": "Van Morrison",
+      "has_synced": true,
+      "path": "select/06_Love_Is_Hard_Work_Van_Morrison.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hard Work",
+      "artist": "Foy Vance",
+      "has_synced": true,
+      "path": "select/07_Hard_Work_Foy_Vance.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hard Work",
+      "artist": "Ella Henderson",
+      "has_synced": true,
+      "path": "select/08_Hard_Work_Ella_Henderson.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Talking Hard Work",
+      "artist": "Woody Guthrie",
+      "has_synced": false,
+      "path": "select/09_Talking_Hard_Work_Woody_Guthrie.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hard Work Pays Off",
+      "artist": "Future & Juice WRLD",
+      "has_synced": true,
+      "path": "select/10_Hard_Work_Pays_Off_Future_&_Juice_WRLD.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hard Work Pays Off",
+      "artist": "Future",
+      "has_synced": true,
+      "path": "select/11_Hard_Work_Pays_Off_Future.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "HARD WORK PAYS OFF",
+      "artist": "Ufo361",
+      "has_synced": true,
+      "path": "select/12_HARD_WORK_PAYS_OFF_Ufo361.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hard Work (Motivational Speech)",
+      "artist": "Fearless Motivation",
+      "has_synced": true,
+      "path": "select/13_Hard_Work_(Motivational_Speech)_Fearless_Motivation.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Hard Work: Motivational Speech",
+      "artist": "Fearless Motivation",
+      "has_synced": true,
+      "path": "select/14_Hard_Work__Motivational_Speech_Fearless_Motivation.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Hard Work (feat. Lil Durk)",
+      "artist": "French Montana feat. Lil Durk",
+      "has_synced": false,
+      "path": "select/15_Hard_Work_(feat._Lil_Durk)_French_Montana_feat._Lil_Durk.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Hard Work",
+      "artist": "French Montana;Lil Durk",
+      "has_synced": false,
+      "path": "select/16_Hard_Work_French_Montana;Lil_Durk.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Hard Work",
+      "artist": "Justine Skye",
+      "has_synced": true,
+      "path": "select/17_Hard_Work_Justine_Skye.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Hard Work",
+      "artist": "Roscoe Dash",
+      "has_synced": false,
+      "path": "select/18_Hard_Work_Roscoe_Dash.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hard work",
+      "artist": "Leina",
+      "has_synced": false,
+      "path": "select/pl_01_Hard_work_Leina.txt"
+    }
+  ]
+}
